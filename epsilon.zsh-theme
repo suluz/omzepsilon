@@ -1,5 +1,5 @@
 PROMPT=$'
-%F{7}%n@%m %{$reset_color%}%F{6}%~%{$reset_color%} $(git_prompt_info)\
+%F{244}%n@%m %{$reset_color%}%F{6}%~%{$reset_color%} $(git_prompt_info)\
 %F{white}->%F{white} %(!.#.$)%{$reset_color%} '
 RPROMPT='%F{8}[%*]'
 
